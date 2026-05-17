@@ -1,5 +1,5 @@
 ---
-title: $readdir
+title: $readDir
 description: Read a folder and returns its file list.
 ---
 
@@ -11,5 +11,5 @@ Read a folder and returns its file list.
 | Separator | Text separator to join the results. | No       | ,             |
 ## Example
 ```eats
-$readdir[path;separator?]
+$readDir[path;separator?]
 ```
